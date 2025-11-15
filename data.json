@@ -2,5 +2,22 @@
   "regions": [],
   "industries": [],
   "subcategories": [],
-  "merchants": []
+  "merchants": [
+    {
+      "region": null,
+      "industry": null,
+      "sub": null,
+      "name": "520鲜切牛肉自助火锅（红灯笼店）",
+      "category": "中餐/火锅",
+      "address": "JG7H+MCX, Preah Sihanouk(金沙华威斜对面)",
+      "level": "A",
+      "contact": "戴总",
+      "phone": "0965781123",
+      "other": "飞机同号",
+      "status": "洽谈中",
+      "staff": "",
+      "code": "",
+      "note": ""
+    }
+  ]
 }
