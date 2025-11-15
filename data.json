@@ -1,9 +1,9 @@
 {
-  "regions": [],
-  "industries": [],
-  "subcategories": [],
-  "merchants": [
-    {
+  "regions": [...],
+  "industries": [...],
+  "subcategories": [...],
+  "merchants": [...]
+}
       "region": null,
       "industry": null,
       "sub": null,
