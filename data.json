@@ -1,39 +1,6 @@
 {
-  "regions": [...],
-  "industries": [...],
-  "subcategories": [...],
-  "merchants": [...]
-}
-      "region": null,
-      "industry": null,
-      "sub": null,
-      "name": "520鲜切牛肉自助火锅（红灯笼店）",
-      "category": "中餐/火锅",
-      "address": "JG7H+MCX, Preah Sihanouk(金沙华威斜对面)",
-      "level": "A",
-      "contact": "戴总",
-      "phone": "0965781123",
-      "other": "飞机同号",
-      "status": "洽谈中",
-      "staff": "",
-      "code": "",
-      "note": ""
-    },
-    {
-      "region": null,
-      "industry": null,
-      "sub": null,
-      "name": "喝丢一只鞋 西港总店",
-      "category": "中餐/火锅",
-      "address": "Preah Sihanouk, KH 西哈努克港港红灯笼娱乐城转弯处，喝丢一只鞋第四区第四村",
-      "level": "A",
-      "contact": "",
-      "phone": "0186520777",
-      "other": "",
-      "status": "洽谈中",
-      "staff": "",
-      "code": "",
-      "note": ""
-    }
-  ]
+  "regions": [],
+  "industries": [],
+  "subcategories": [],
+  "merchants": []
 }
